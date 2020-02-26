@@ -1,4 +1,3 @@
-**  PABLO VALDUNCIEL SÁNCHEZ ++;
 
 ** ANALGÉSICOS INFANTILES (1F+1B)
 ** El departamento de pediatría de un hospital desea analizar la eficacia de
