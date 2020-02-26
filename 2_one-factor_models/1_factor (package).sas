@@ -9,7 +9,7 @@
 
 * Importamos los datos ;
 data kenton;
-infile '/folders/myfolders/Datos/Datos-20190913/CH16TA01.txt';
+infile 'data/CH16TA01.txt';
 input y package store;
 proc print; run;
 
