@@ -11,6 +11,7 @@ analysis. 4ª Ed. (2006).
 regresión lineal. 3ª Ed (2006).
 - NETER, J., KUTNER, M.H., NACHTSHEIM, C.J. y WASSERMAN, W. (2005). Applied
 Linear Statistical Models, McGrawHill.
+- VILAR, J.M. (2006). Modelos estadísticos Aplicados. Univ. da Coruña
 
 
 The comments explaining the followed procedure in the different exercises are in **Spanish**. 
