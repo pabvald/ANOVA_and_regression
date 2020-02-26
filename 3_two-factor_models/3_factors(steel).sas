@@ -5,7 +5,7 @@ de steel-lenght.xls;
 
 * ---- Importación de los datos -----;
 
-proc import datafile='/folders/myfolders/Datos/Datos-20190913/steel-lenght.xls'
+proc import datafile='data/steel-lenght.xls'
    out=steel replace
    DBMS=xls;
    sheet="Sheet1";
