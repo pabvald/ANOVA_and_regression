@@ -99,7 +99,7 @@ run;
 
 * Ordenar las provincias según su densidad de población, y guardar el fichero
 * Ordenado en una librería que tú hayas creado;
-libname Mylib2 '/folders/myfolders/Practicas/Practica0';
+libname Mylib2 '/data/lib/mylib2';
 data Mylib2.Ordenado;
 set CompletoDen;
 run;
