@@ -5,7 +5,7 @@
 
 
 *1. IMPORTAMOS  el conjunto de datos datatab_6_26.xls como teacher;
-proc import datafile='/folders/myfolders/Datos/Datos-20190913/datatab_6_26.xls'
+proc import datafile='data/datatab_6_26.xls'
    out=teacher replace
    DBMS=xls;
    sheet="teachers";
