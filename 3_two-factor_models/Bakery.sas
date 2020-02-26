@@ -2,7 +2,7 @@
 ** -- Importación de los datos --;
 
 data bakery;
-infile '/folders/myfolders/Datos/Datos Kutner/Datos_Kutner/Chapter 19 Data Sets/CH19TA07.txt';
+infile 'data/CH19TA07.txt';
 input ventas altura anchura;
 run;
 
