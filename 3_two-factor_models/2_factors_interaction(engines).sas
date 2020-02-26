@@ -5,7 +5,7 @@ y tipo de aceite: 1- estandar, 2- multi, 3-gasmiser;
 
 ** --- Importación de los datos ---;
 PROC IMPORT OUT= WORK.mpg 
-            DATAFILE= "G:\datos\mpg.xls" 
+            DATAFILE= "data/mpg.xls" 
             DBMS=xls REPLACE;
      sheet="Sheet1"; 
      getnames=yes;
