@@ -1,4 +1,4 @@
-# ANOVA and Regression 
+# Regression and ANOVA
 
 This repository contains the exercises in SAS language I carried out in the subject *ANOVA and Regression*. Every exercise and assignment has been obtained from one of the following books:
 
